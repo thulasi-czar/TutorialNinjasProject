@@ -1,0 +1,82 @@
+13/10/2023 04:07:29 PM: INFO: utilities.customLogger: ******************** Test_002_Register ***********************
+13/10/2023 04:07:41 PM: INFO: utilities.customLogger: ************* test case register with mandatory fields started **************
+13/10/2023 04:07:43 PM: INFO: utilities.customLogger: ************* test case register with mandatory fields finished **************
+13/10/2023 04:10:58 PM: INFO: utilities.customLogger: ******************** Test_002_Register ***********************
+13/10/2023 04:11:03 PM: INFO: utilities.customLogger: ************* test case register with mandatory fields started **************
+13/10/2023 04:11:10 PM: INFO: utilities.customLogger: ************* test case register with mandatory fields finished **************
+13/10/2023 04:18:16 PM: INFO: utilities.customLogger: ----------------this is Test_001_Login----------------------
+13/10/2023 04:36:07 PM: INFO: utilities.customLogger: ----------------this is Test_001_Login----------------------
+13/10/2023 04:37:15 PM: INFO: utilities.customLogger: ----------------this is Test_001_Login----------------------
+13/10/2023 04:39:02 PM: INFO: utilities.customLogger: ----------------this is Test_001_Login----------------------
+13/10/2023 04:40:17 PM: INFO: utilities.customLogger: ----------------this is Test_001_Login----------------------
+13/10/2023 04:40:54 PM: INFO: utilities.customLogger: ----------------this is Test_001_Login----------------------
+13/10/2023 04:41:35 PM: INFO: utilities.customLogger: ----------------this is Test_001_Login----------------------
+13/10/2023 04:42:40 PM: INFO: utilities.customLogger: ----------------this is Test_001_Login----------------------
+13/10/2023 04:43:24 PM: INFO: utilities.customLogger: ----------------this is Test_001_Login----------------------
+13/10/2023 04:44:55 PM: INFO: utilities.customLogger: ----------------this is Test_001_Login----------------------
+13/10/2023 04:48:37 PM: INFO: utilities.customLogger: ----------------this is Test_001_Login----------------------
+13/10/2023 04:49:19 PM: INFO: utilities.customLogger: ----------------this is Test_001_Login----------------------
+13/10/2023 04:52:55 PM: INFO: utilities.customLogger: ----------------this is Test_001_Login----------------------
+13/10/2023 04:54:07 PM: INFO: utilities.customLogger: ----------------this is Test_001_Login----------------------
+13/10/2023 04:54:36 PM: INFO: utilities.customLogger: ----------------this is Test_001_Login----------------------
+13/10/2023 04:55:29 PM: INFO: utilities.customLogger: ----------------this is Test_001_Login----------------------
+13/10/2023 04:56:11 PM: INFO: utilities.customLogger: ----------------this is Test_001_Login----------------------
+13/10/2023 04:56:34 PM: INFO: utilities.customLogger: ----------------this is Test_001_Login----------------------
+13/10/2023 05:02:41 PM: INFO: utilities.customLogger: ----------------this is Test_001_Login----------------------
+13/10/2023 05:03:22 PM: INFO: utilities.customLogger: ----------------this is Test_001_Login----------------------
+13/10/2023 05:07:20 PM: INFO: utilities.customLogger: ----------------this is Test_001_Login----------------------
+13/10/2023 05:07:44 PM: INFO: utilities.customLogger: ----------------this is Test_001_Login----------------------
+13/10/2023 05:10:11 PM: INFO: utilities.customLogger: ----------------this is Test_001_Login----------------------
+13/10/2023 05:10:11 PM: INFO: utilities.customLogger: ----------------this is Test_001_Login----------------------
+13/10/2023 05:10:11 PM: INFO: utilities.customLogger: ----------------this is Test_001_Login----------------------
+14/10/2023 10:07:42 AM: INFO: utilities.customLogger: ******************** Test_002_Register ***********************
+14/10/2023 10:07:49 AM: INFO: utilities.customLogger: ************* test case register with mandatory fields started **************
+14/10/2023 10:08:05 AM: INFO: utilities.customLogger: ************* test case register with mandatory fields finished **************
+14/10/2023 10:11:19 AM: INFO: utilities.customLogger: ******************** Test_002_Register ***********************
+14/10/2023 10:11:21 AM: INFO: utilities.customLogger: ************* test case register with mandatory fields started **************
+14/10/2023 10:11:33 AM: INFO: utilities.customLogger: ************* test case register with mandatory fields finished **************
+14/10/2023 10:37:50 AM: INFO: utilities.customLogger: ******************** Test_002_Register ***********************
+14/10/2023 10:38:24 AM: INFO: utilities.customLogger: ************* test case register with mandatory fields started **************
+14/10/2023 10:38:39 AM: INFO: utilities.customLogger: ************* test case register with mandatory fields finished **************
+14/10/2023 10:42:06 AM: INFO: utilities.customLogger: ******************** Test_002_Register ***********************
+14/10/2023 10:42:09 AM: INFO: utilities.customLogger: ************* test case register with mandatory fields started **************
+14/10/2023 10:42:21 AM: INFO: utilities.customLogger: ************* test case register with mandatory fields finished **************
+14/10/2023 10:59:45 AM: INFO: utilities.customLogger: ----------------this is Test_001_Login----------------------
+14/10/2023 10:59:45 AM: INFO: utilities.customLogger: ******************** Test_002_Register ***********************
+14/10/2023 10:59:45 AM: INFO: utilities.customLogger: ******************** Test_002_Register ***********************
+14/10/2023 11:00:17 AM: INFO: utilities.customLogger: ************* test case register with mandatory fields started **************
+14/10/2023 11:00:17 AM: INFO: utilities.customLogger: ************* test case register with mandatory fields started **************
+14/10/2023 11:00:30 AM: INFO: utilities.customLogger: ************* test case register with mandatory fields finished **************
+14/10/2023 11:00:30 AM: INFO: utilities.customLogger: ************* test case register with mandatory fields finished **************
+14/10/2023 11:19:10 AM: INFO: utilities.customLogger: ----------------this is Test_001_Login----------------------
+14/10/2023 11:19:10 AM: INFO: utilities.customLogger: ******************** Test_002_Register ***********************
+14/10/2023 11:19:10 AM: INFO: utilities.customLogger: ******************** Test_002_Register ***********************
+14/10/2023 11:19:46 AM: INFO: utilities.customLogger: ************* test case register with mandatory fields started **************
+14/10/2023 11:19:46 AM: INFO: utilities.customLogger: ************* test case register with mandatory fields started **************
+14/10/2023 11:20:04 AM: INFO: utilities.customLogger: ************* test case register with mandatory fields finished **************
+14/10/2023 11:20:04 AM: INFO: utilities.customLogger: ************* test case register with mandatory fields finished **************
+14/10/2023 01:58:13 PM: INFO: utilities.customLogger: ----------------this is Test_001_Login----------------------
+14/10/2023 01:58:13 PM: INFO: utilities.customLogger: ******************** Test_002_Register ***********************
+14/10/2023 01:58:13 PM: INFO: utilities.customLogger: ******************** Test_002_Register ***********************
+14/10/2023 02:00:02 PM: INFO: utilities.customLogger: ************* test case register with mandatory fields started **************
+14/10/2023 02:00:02 PM: INFO: utilities.customLogger: ************* test case register with mandatory fields started **************
+14/10/2023 02:00:16 PM: INFO: utilities.customLogger: ************* test case register with mandatory fields finished **************
+14/10/2023 02:00:16 PM: INFO: utilities.customLogger: ************* test case register with mandatory fields finished **************
+14/10/2023 02:13:22 PM: INFO: utilities.customLogger: ******************** Test_002_Register ***********************
+14/10/2023 02:13:25 PM: INFO: utilities.customLogger: ************* test case register with mandatory fields started **************
+14/10/2023 02:13:39 PM: INFO: utilities.customLogger: ************* test case register with mandatory fields finished **************
+16/10/2023 02:54:05 PM: INFO: utilities.customLogger: ******************** Test_002_Register ***********************
+16/10/2023 02:54:07 PM: INFO: utilities.customLogger: ************* test case register with mandatory fields started **************
+16/10/2023 02:54:21 PM: INFO: utilities.customLogger: ************* test case register with mandatory fields finished **************
+16/10/2023 02:55:54 PM: INFO: utilities.customLogger: ******************** Test_002_Register ***********************
+16/10/2023 02:55:56 PM: INFO: utilities.customLogger: ************* test case register with mandatory fields started **************
+16/10/2023 02:56:07 PM: INFO: utilities.customLogger: ************* test case register with mandatory fields finished **************
+16/10/2023 03:02:01 PM: INFO: utilities.customLogger: ******************** Test_002_Register ***********************
+16/10/2023 03:02:03 PM: INFO: utilities.customLogger: ************* test case register with mandatory fields started **************
+16/10/2023 03:02:12 PM: INFO: utilities.customLogger: ************* test case register with mandatory fields finished **************
+16/10/2023 03:14:36 PM: INFO: utilities.customLogger: ******************** Test_002_Register ***********************
+16/10/2023 03:14:38 PM: INFO: utilities.customLogger: ************* test case register with mandatory fields started **************
+16/10/2023 03:14:48 PM: INFO: utilities.customLogger: ************* test case register with mandatory fields finished **************
+16/10/2023 03:51:24 PM: INFO: utilities.customLogger: ******************** Test_002_Register ***********************
+16/10/2023 03:51:28 PM: INFO: utilities.customLogger: ************* test case register with mandatory fields started **************
+16/10/2023 03:51:40 PM: INFO: utilities.customLogger: ************* test case register with mandatory fields finished **************

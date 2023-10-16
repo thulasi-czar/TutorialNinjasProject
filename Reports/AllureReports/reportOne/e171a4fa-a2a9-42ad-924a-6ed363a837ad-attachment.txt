@@ -1,0 +1,2 @@
+INFO     utilities.customLogger:test_register.py:17 ************* test case register with mandatory fields started **************
+INFO     utilities.customLogger:test_register.py:33 ************* test case register with mandatory fields finished **************

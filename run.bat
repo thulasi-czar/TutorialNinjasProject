@@ -1,0 +1,1 @@
+pytest testCases\test_register.py --alluredir=Reports\AllureReports\reportOne --html=Reports\HtmlReports\reportOne.html
